@@ -41,6 +41,9 @@ body {
 /** END HEADER **/
 
 /* MENU ITEMS */
+h1 {
+	text-align: center;
+}
 .menu-item {
 	position: relative;
 	text-align: center;
